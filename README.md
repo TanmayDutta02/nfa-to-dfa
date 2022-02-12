@@ -1,1 +1,1 @@
-# nfa-to-dfa
+# conversion of nfa to dfa in c
